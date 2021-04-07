@@ -49,7 +49,7 @@ const About = () => {
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphFour}
-                </p>paragraphFive
+                </p>
                 <p className="about-wrapper__info-text">
                   {paragraphFive}
                 </p>
