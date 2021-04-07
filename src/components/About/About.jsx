@@ -49,6 +49,9 @@ const About = () => {
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphFour}
+                </p>paragraphFive
+                <p className="about-wrapper__info-text">
+                  {paragraphFive}
                 </p>
               </div>
             </Fade>
